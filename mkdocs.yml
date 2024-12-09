@@ -1,0 +1,19 @@
+site_name: Fernu
+site_url: 
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+
+nav:
+  - Home: index.md
+  - Bio: 
+    - Autobio: about/about.md
+    - il fare: about/capiam.md
+
